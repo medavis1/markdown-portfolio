@@ -1,0 +1,8 @@
+- *C++*
+- *Java*
+- *R*
+- *Python*
+- __Hardworking__
+- __Organized__
+- __Teamwork__
+- __Critical Thinking__
